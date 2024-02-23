@@ -51,7 +51,7 @@ As aspiring programmers, understanding and mastering these fundamentals will emp
 - [Sort Visualizer](https://www.sortvisualizer.com/) some funky ones 
 
 # Space and Time Complexity
-[about Space and Time](space_time.md)
+[About Space and Time](space_time.md)
 
 - [A Beginner's Guide to The Big O Notation](https://hackernoon.com/a-beginners-guide-to-the-big-o-notation-yb7332wf)
 - [
