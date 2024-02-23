@@ -14,7 +14,7 @@ Every developer should know some SQL. Basic SQL is fairly easy.
 - [SQL Tutorial W3 Schools](https://www.w3schools.com/sql/)
 - [Leet Code Study Plan](https://leetcode.com/studyplan/top-sql-50/)
 - [HackerRank SQL Challenges Solutions](https://github.com/DPI-2024/HackerRank-SQL-Challenges-Solutions)
-- [DBeaver DatabaseTool](https://dbeaver.io/)
+- [DBeaver Database Tool](https://dbeaver.io/)
 
 # Data Structures & Algorithms Exam Prep
 
