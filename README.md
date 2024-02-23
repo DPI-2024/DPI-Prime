@@ -10,10 +10,11 @@ Every developer should know some SQL. Basic SQL is fairly easy.
 - [SQL Zoo](https://sqlzoo.net/)
 - [SQL Island](https://sql-island.informatik.uni-kl.de/)
 - [Knight Lab](https://mystery.knightlab.com/)
-- [SQL Tuturial by Wilson](https://gvwilson.github.io/sql-tutorial/)
+- [SQL Tutorial by Wilson](https://gvwilson.github.io/sql-tutorial/)
+- [SQL Tutorial W3 Schools](https://www.w3schools.com/sql/)
 - [Leet Code Study Plan](https://leetcode.com/studyplan/top-sql-50/)
 - [HackerRank SQL Challenges Solutions](https://github.com/DPI-2024/HackerRank-SQL-Challenges-Solutions)
-
+- [DBeaver DatabaseTool](https://dbeaver.io/)
 
 # Data Structures & Algorithms Exam Prep
 
