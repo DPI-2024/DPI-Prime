@@ -1,4 +1,29 @@
+# DPI Prime
+Getting started links for your tech skill enhancement.
+
+# SQL
+Structured Query Language (SQL) is the language of choice for managing and manipulating data in relational database systems. 
+
+Every developer should know some SQL. Basic SQL is fairly easy.
+ 
+- [GoRails](https://gorails.com/series/sql-for-beginners)
+- [SQL Zoo](https://sqlzoo.net/)
+- [SQL Island](https://sql-island.informatik.uni-kl.de/)
+- [Knight Lab](https://mystery.knightlab.com/)
+- [SQL Tuturial by Wilson](https://gvwilson.github.io/sql-tutorial/)
+- [Leet Code Study Plan](https://leetcode.com/studyplan/top-sql-50/)
+- [HackerRank SQL Challenges Solutions](https://github.com/DPI-2024/HackerRank-SQL-Challenges-Solutions)
+
+
 # Data Structures & Algorithms Exam Prep
+
+In the realm of computer science, data structures and algorithms form the backbone of efficient problem-solving and software development. 
+
+Imagine a toolbox filled with different techniques and structures that help organize and manipulate data to solve computational problems effectively. 
+
+Data structures are the building blocks that enable us to store, organize, and retrieve information, while algorithms are the step-by-step procedures or recipes that guide the computer in performing specific tasks. 
+
+As aspiring programmers, understanding and mastering these fundamentals will empower you to write more efficient and scalable code, enhancing your ability to tackle complex challenges and create robust software solutions. 
 
 ## Apple Apps
 
@@ -7,7 +32,6 @@
 ## HackerRank links
 
 - [Hacker Rank Solutions (Java)](https://github.com/DPI-2024/Hackerrank-Solutions)
-- [HackerRank SQL Challenges Solutions](https://github.com/DPI-2024/HackerRank-SQL-Challenges-Solutions)
 - [Hackerrank Challenges (Java, SQL)](https://github.com/DPI-2024/hackerrank-challenges)
 - [HackerRank Solutions 2020 (Java)](https://github.com/DPI-2024/HackerRank)
 - [HackerRank Solutions 2020 (C)](https://github.com/DPI-2024/HackerRank)
